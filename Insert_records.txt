@@ -1,0 +1,14 @@
+INSERT INTO caloriepost VALUES (1,"Bread",6,0,2,34,DATE("2022-01-28"));
+INSERT INTO caloriepost VALUES (2,"Aloo Paratha",65,8,10,390,DATE("2022-01-28"));
+INSERT INTO caloriepost VALUES (3,"Yogurt",7,0,1,32,DATE("2022-01-28"));
+INSERT INTO caloriepost VALUES (4,"Pizza",29,10,12,268,DATE("2022-01-28"));
+INSERT INTO caloriepost VALUES (5,"Veg Briyani",37,4,4,200,DATE("2022-01-29"));
+INSERT INTO caloriepost VALUES (6,"Channa Masala",20,9,5,180,DATE("2022-01-29"));
+INSERT INTO caloriepost VALUES (7,"Chicken Wrap",43,19,37,483,DATE("2022-01-31"));
+INSERT INTO caloriepost VALUES (8,"Puri",16,5,3,112,DATE("2022-01-30"));
+INSERT INTO caloriepost VALUES (9,"Chole",25,8,8,204,DATE("2022-01-30"));
+INSERT INTO caloriepost VALUES (10,"Cheese Burger",0,20,27,327,DATE("2022-01-30"));
+INSERT INTO caloriepost VALUES (11,"Onion Pakoda",21,2,6,119,DATE("2022-01-31"));
+INSERT INTO caloriepost VALUES (12,"Coffee",2,2,19,191,DATE("2022-01-31"));
+INSERT INTO caloriepost VALUES (13,"Samosa",13,2,5,88,DATE("2022-01-31"));
+INSERT INTO caloriepost VALUES (14,"Chicken Wrap",43,19,37,483,DATE("2022-01-31"));
